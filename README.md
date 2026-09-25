@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/favicon.svg" alt="Dev Ornaments Logo" width="80" />
-</p>
-
 <h1 align="center">Dev Ornaments</h1>
 
 <p align="center">
